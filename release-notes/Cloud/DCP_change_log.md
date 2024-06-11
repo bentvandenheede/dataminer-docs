@@ -39,7 +39,7 @@ The [ChatOps example scripts on GitHub](https://github.com/SkylineCommunications
 
 #### 30 May 2024 - Enhancement - Enable access to more web app folders via Remote Access [ID_39812]
 
-From now on, if Remote Access to the web apps is enabled, this also allows access to the folder `/Documents/DMA_COMMON_DOCUMENTS/`, so that it is possible to access the documents available in Cube.
+From now on, if Remote Access to the web apps is enabled, this also allows access to the folder `/Documents/`, so that it is possible to access the documents available in Cube.
 
 #### 30 May 2024 - Enhancement - Home - DaaS error messages [ID_39810]
 
